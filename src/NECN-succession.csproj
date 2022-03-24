@@ -59,6 +59,7 @@
       <HintPath>..\..\build\extensions\Landis.Library.Parameters-v2.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.Succession-v8">
+      <HintPath>..\..\build\extensions\Landis.Library.Succession-v8.dll</HintPath>
     </Reference>
     <Reference Include="Landis.Library.InitialCommunity.Biomass">
       <HintPath>..\..\build\extensions\Landis.Library.InitialCommunity.Biomass.dll</HintPath>
